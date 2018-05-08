@@ -54,7 +54,8 @@ let result = numberSeparator(20);
 console.log(
 
     result[0],
-    result[1]
+    result[1],
+    'Hello'
 
 );
 
