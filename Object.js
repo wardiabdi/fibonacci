@@ -1,5 +1,7 @@
 
-let team = {{id: "0012" }, {Name: "James"},{"surname": "John"}
-{Dept: "HR"}
-
+let team = {
+    "Id": "0012, 
+    "Name": "James",
+    "Surname": "John",
+    "Dept": "HR"
 }
