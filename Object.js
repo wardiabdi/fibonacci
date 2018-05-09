@@ -4,4 +4,6 @@ let team = {
     "Name": "James",
     "Surname": "John",
     "Dept": "HR"
-}
+};
+
+team.push(william.Surname);
