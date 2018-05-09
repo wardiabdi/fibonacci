@@ -6,4 +6,4 @@ let team = {
     "Dept": "HR"
 };
 
-team.push{Surname:"Willaim"};
+// team.push{Surname:"Willaim"};
