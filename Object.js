@@ -7,3 +7,25 @@ let team = {
 };
 
 // team.push{Surname:"Willaim"};
+
+let person = {
+    Id: "",
+    name: "",
+    lastname: "",
+      age:null,
+      qualifications:"",
+      skillSet:"",
+      Department:"",
+      Experience:"",
+  
+  
+  };
+  console.log(person);
+  
+  let skillsMatch = function(n){
+  
+  
+  
+  
+  
+  }
