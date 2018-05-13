@@ -14,7 +14,7 @@ let person = {
     lastname: "",
       age:null,
       qualifications:"",
-      skillSet:"",
+        skillSet:["JS","HTML","CSS"]
       Department:"",
       Experience:"",
   
