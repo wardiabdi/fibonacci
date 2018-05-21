@@ -9,7 +9,7 @@ let myArray1 = [];
 let myRandomNum = function (n) {
     let False = 0;
     let True = 1;
-    let myArray = [0,1];
+    let myArray = ["a","b","c"];
     for (i = 0; i < myArray.length; i++) {
         myArray1.push(myRandomNum[i]);
           console.log(i);
