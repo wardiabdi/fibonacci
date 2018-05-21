@@ -14,7 +14,7 @@
 //     qualifications: "",
 //     skillSet: ["JS", "HTML", "CSS"]
 //       Department: "",
-//     Experience: "",
+//     Experience: "8",
 //     pes
 
 // };
@@ -36,16 +36,16 @@ let person = function createPerson(Id, Firstname, Lastname, Age, Title, Qualific
     return Person;
 }
 
-// let Person = (, "", "");
+
 
 let mPerson = person('10', 'Smith', 'Wardi');
 console.log(mPerson);
 
-console.log(mPerson.Firstname);
+// console.log(mPerson.Firstname);
 console.log(mPerson['Lastname']);
 
 mPerson.Firstname = 'John';
-console.log(mPerson.Firstname);
+
 
 mPerson['Lastname'] = 'Ronaldo';
 console.log(mPerson['Lastname']);
