@@ -1,8 +1,6 @@
 let newTruth = [];
 
 
-
-
 let myRandomNum = function (n) {
     let False = 0;
     let True = 1;
