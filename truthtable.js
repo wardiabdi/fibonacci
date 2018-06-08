@@ -22,7 +22,7 @@ let myRandomNum = function (n) {
         }
     };
 
-    return n;
+    return newTruth;
 
 }
 
