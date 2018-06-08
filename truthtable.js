@@ -1,33 +1,32 @@
-let newTruth = [];
+let myArray = ["a", "b", "c", "d"];
+let myGate = function (n) {
+  let False = 0, True = 1;
+  let AndGate = [];
+  let ORGate = [];
+
+  // let truthArray = function (n);
+  for (let i = 0; i < n; i++) {
+   console.log(i);
+  }
+  if (truthArray[i] === 0) {
+    return true;
+    AndGate.push(myGate[i]);
+  }
+  if (!(a == b)) {
+    return false;
+  }
+  if (a && b === c) {
+    return true;
+
+  }
 
 
-let myRandomNum = function (n) {
-    let False = 0;
-    let True = 1;
-    let newTruth = [];
-    let myArray = ["a", "b", "c"];
-
-    for (let i = 0; i < myArray.length; i++) {
-
-        if (a < b) {
-            return true;
-            newTrut.push(myRandomNum[i]);
-        }
-        if (!(a == b)) {
-            return false;
-        }
-        if (a && b === c) {
-            return true;
-
-        }
-    };
-
-    return newTruth;
+  return [AndGate, ORGate];
 
 }
 
-let myArray = myRandomNum();
-console.log(myRandomNum);
+// let myArray = myRandomNum();
+console.log(myGate);
 
 // AND gate 
 // a b c 
