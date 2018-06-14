@@ -1,18 +1,24 @@
+
+
+
+
+
+
+
 let myArray = ["a", "b", "c", "d"];
 let myGate = function (n) {
   let False = 0, True = 1;
   let AndGate = [];
   let ORGate = [];
 
-  // let truthArray = function (n);
+  let truthArray = myGate(n);
   for (let i = 0; i < n; i++) {
-   console.log(i);
   }
-  if (truthArray[i] === 0) {
+  if (a > 0 && b > 0) {
     return true;
-    AndGate.push(myGate[i]);
+    AndGate.push(truthArray[i]);
   }
-  if (!(a == b)) {
+  if (!(a > 0 || b > 0)) {
     return false;
   }
   if (a && b === c) {
@@ -25,7 +31,7 @@ let myGate = function (n) {
 
 }
 
-// let myArray = myRandomNum();
+
 console.log(myGate);
 
 // AND gate 
@@ -42,3 +48,4 @@ console.log(myGate);
 // 0 1 1
 // 1 0 1
 // 1 1 1
+
