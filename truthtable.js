@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 let myArray = ["a", "b", "c", "d"];
 let myGate = function (n) {
   let False = 0, True = 1;
