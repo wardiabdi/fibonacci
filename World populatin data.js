@@ -44,7 +44,7 @@ let Algeria = {
       });
   
     
-    let workbook = new Excel.Workbook();
+    let workbook = new Excel.Workbook();{
       stream.pipe(workbook.xlsx.createInputStream());
   
   }
