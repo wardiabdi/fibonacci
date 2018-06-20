@@ -2,7 +2,7 @@ let myArray = ["a", "b", "c", "d"];
 let myGate = function (n) {
   let False = 0, True = 1;
   let AndGate = [];
-  let ORGate = [];
+  // let ORGate = [];
 
   let truthArray = myGate(n);
   for (let i = 0; i < n; i++) {
