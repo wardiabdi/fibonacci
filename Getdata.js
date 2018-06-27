@@ -1,0 +1,2 @@
+function Getdata(cell, row) {
+}
