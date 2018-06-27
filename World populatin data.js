@@ -37,7 +37,7 @@ let Algeria = {
   console.log(Somalia);
 
 
-  Let workbook = new Excel.Workbook();
+  // Let workbook = new Excel.Workbook();
   workbook.xlsx.readFile(world-population-data)
       .then(function() {
           // use workbook
